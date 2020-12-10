@@ -18,6 +18,10 @@ description: "Integrate your TuYa TS0121_plug via Zigbee2MQTT with whatever smar
 
 ## Notes
 
+### Pairing
+A new device will automatically pair when connected to the socket.
+To initiate pairing manually, press and hold the switch button for 5s.
+
 ### Device type specific configuration
 *[How to use device type specific configuration](../information/configuration.md)*
 
